@@ -4,7 +4,7 @@ metadata:
   labels:
     run: nginx
     another: label
-  name: nginx
+  name: nginx-yaml
 spec:
   containers:
     - image: nginx
